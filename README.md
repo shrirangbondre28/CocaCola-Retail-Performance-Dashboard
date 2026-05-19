@@ -9,12 +9,11 @@ This Excel-based dashboard provides a dynamic analysis of Coca-Cola’s key Amer
 - [Dashboard Snapshot](#dashboard-snapshot)
 
 ## Business Context and Key Question
-Content:
 
-- Coca-Cola operates across multiple regions and product lines, but revenue concentration and profitability drivers are often uneven and unclear at a glance.
+- Coca Cola operates across multiple regions and product lines, but revenue concentration and profitability drivers are often uneven and unclear at a glance.
 - This project analyzes sales performance to identify where revenue is concentrated, which products truly drive profit, and where inefficiencies exist.
 - Core question:
-"How can Coca-Cola optimize regional and product-level strategy to maximize revenue and profitability?"
+"How can Coca Cola optimize regional and product level strategy to maximize revenue and profitability?"
 
 ## Analytical Approach
 
@@ -28,19 +27,19 @@ Content:
 
 ## Key Insights and Recommendations
 - Revenue Concentration Risk:
-  A limited number of regions contribute a majority of total revenue, indicating over-reliance on specific markets
+  A limited number of regions contribute a majority of total revenue, indicating over reliance on specific markets
 → Recommendation: Diversify growth efforts in underperforming regions
 - Volume vs Profit Mismatch:
 High-selling products are not always the most profitable, highlighting margin inefficiencies
-→ Recommendation: Re-evaluate pricing or cost structures for high-volume, low-margin products
+→ Recommendation: Re-evaluate pricing or cost structures for high-volume, low margin products
 - Seasonality in Demand:
 Sales exhibit clear peak periods, suggesting predictable demand cycles
 → Recommendation: Align inventory and marketing strategies with seasonal demand spikes
 
 ## Business Impact and Tools
 - Impact:
-   - Enables faster identification of high-impact growth levers.
-   - Supports data-driven prioritization across regions and product lines.
+   - Enables faster identification of high impact growth levers.
+   - Supports data driven prioritization across regions and product lines.
    - Reduces reliance on intuition in sales and marketing decisions.
 - Tools & Skills:
    - Excel (Advanced Pivot Tables, Dashboarding, Slicers)
