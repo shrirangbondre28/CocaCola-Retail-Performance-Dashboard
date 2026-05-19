@@ -39,14 +39,14 @@ Sales exhibit clear peak periods, suggesting predictable demand cycles
 
 ## Business Impact and Tools
 - Impact:
-Enables faster identification of high-impact growth levers.
-Supports data-driven prioritization across regions and product lines.
-Reduces reliance on intuition in sales and marketing decisions.
+   - Enables faster identification of high-impact growth levers.
+   - Supports data-driven prioritization across regions and product lines.
+   - Reduces reliance on intuition in sales and marketing decisions.
 - Tools & Skills:
---> Excel (Advanced Pivot Tables, Dashboarding, Slicers)
---> Data Cleaning & Transformation
---> Exploratory Data Analysis (EDA)
---> Business Insight Generation
+   - Excel (Advanced Pivot Tables, Dashboarding, Slicers)
+   - Data Cleaning & Transformation
+   - Exploratory Data Analysis (EDA)
+   - Business Insight Generation
 ## Dashboard Snapshot 
 
 <img width="1460" height="527" alt="image" src="https://github.com/user-attachments/assets/0de4e91c-a6e1-49f7-8aba-84f1b6417490" />
